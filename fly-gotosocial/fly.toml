@@ -15,6 +15,10 @@ processes = []
   GTS_DB_ADDRESS = "/data/sqlite.db"
   GTS_STORAGE_LOCAL_BASE_PATH = "/data/storage"
   GTS_ACCOUNTS_REGISTRATION_OPEN = "false"
+  GTS_OIDC_ENABLED = "true"
+  GTS_OIDC_IDP_NAME = "Google"
+  GTS_OIDC_ISSUER = "https://accounts.google.com"
+  GTS_OIDC_SCOPES= "openid email profile"
 
 [mounts]
   source="gts_data"
