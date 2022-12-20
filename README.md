@@ -7,6 +7,8 @@ This repository contains:
 
 **Important:** this repository is not intended to be a general-purpose guide to deploying GoToSocial to fly.io. It is intended to be a reference for my own deployment, and may not be suitable for your own deployment. You will absolutely need to make changes to the configuration files to suit your own needs.
 
+**I'm not yet using this deployment in production, and I'm not sure if I ever will.**
+
 ## Problems
 
 * GoToSocial is still in alpha state, and is not yet suitable for production use.
