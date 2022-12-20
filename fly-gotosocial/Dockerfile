@@ -1,1 +1,1 @@
-FROM superseriousbusiness/gotosocial:0.6.0-rc3
+FROM superseriousbusiness/gotosocial:0.6.0
